@@ -1,0 +1,4 @@
+interface:
+  display_name: "适老化产品设计"
+  short_description: "为中老年产品新建、改造和审查提供适老化产品、交互、信息展示与研发落地规范。"
+  default_prompt: "请使用 $elderly-product-accessibility，帮我为这个中老年产品制定页面结构、交互逻辑、信息展示和研发验收规范。"

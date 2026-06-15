@@ -38,11 +38,16 @@
 
 ## Quick Start
 
-Copy the skill folder into your Codex skills directory:
+Clone this repository and copy the skill folder into your Codex skills directory:
 
 ```bash
+git clone https://github.com/revive-zy/elderly-product-accessibility-skill.git
+cd elderly-product-accessibility-skill
+mkdir -p ~/.codex/skills
 cp -R skill/elderly-product-accessibility ~/.codex/skills/
 ```
+
+Restart Codex if the skill list is already loaded.
 
 Then use it in Codex:
 

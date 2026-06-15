@@ -52,7 +52,7 @@ When producing product or design work, include:
 - `页面结构`: homepage, detail, list, form, result, empty, error, and help states.
 - `交互逻辑`: primary action, secondary action, cancellation, undo, confirmation, and failure handling.
 - `信息展示`: typography, contrast, line height, icon+text, status, amount, deadline, and plain-language rules.
-- `安全信任`: permissions, privacy, payment, legal/financial confirmation, no誘导, and support escalation.
+- `安全信任`: permissions, privacy, payment, legal/financial confirmation, no诱导, and support escalation.
 - `研发约束`: platform-specific implementation requirements and accessibility semantics.
 - `验收清单`: measurable checks that QA and Codex can verify.
 
